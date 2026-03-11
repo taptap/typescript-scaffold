@@ -4,3 +4,8 @@ This is a template for a README-driven development project. It is intended to be
 
 - [About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+## Tooling
+
+- Use `pnpm run format` for formatting. JavaScript and TypeScript formatting is handled by Prettier.
+- Use `pnpm run lint` for static analysis. JavaScript and TypeScript linting is handled by ESLint.
