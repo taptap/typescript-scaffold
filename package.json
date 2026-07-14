@@ -1,5 +1,5 @@
 {
-  "packageManager": "pnpm@11.1.1+sha512.d1fdf5f73c617b64fa1a56a81c3c8dfe0e966e33a6010aa256b517ae77be21d93e05affc0de1a83b0e4f29d569f68b446ae8f068cd7247c0bb3df0fb4d7bdf9a",
+  "packageManager": "pnpm@11.12.0+sha512.820a6fbd0d9f04c226638002aead1e45340a9139dd5dc077c1d83ef44aa2481c8eb6637b4c9aa696a3c7e35ba818e49cf27213e5f2b91138d09b7a3e26e898ba",
   "engines": {
     "node": ">=22.22.1"
   },
@@ -13,12 +13,12 @@
   "devDependencies": {
     "@eslint/js": "^10.0.1",
     "autocorrect-node": "^2.14.0",
-    "eslint": "^10.3.0",
+    "eslint": "^10.4.1",
     "globals": "^17.6.0",
     "husky": "^9.1.7",
-    "lint-staged": "^17.0.4",
+    "lint-staged": "^17.0.7",
     "prettier": "^3.8.3",
     "typescript": "^6.0.0",
-    "typescript-eslint": "^8.59.3"
+    "typescript-eslint": "^8.60.1"
   }
 }
